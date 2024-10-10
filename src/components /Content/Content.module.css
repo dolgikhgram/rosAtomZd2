@@ -1,0 +1,9 @@
+.content{
+    grid-area: c;
+    width: auto;
+    height: 1900px;
+    background-color: rgb(217, 230, 230);
+}
+.search{
+    width: 500px;
+}
